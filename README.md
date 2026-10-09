@@ -3,7 +3,7 @@ Este proyecto fue realizado por mi y mis compañeros de equipo Félix Espejo Ale
 <br>
 <br>
 
-En este blog se presenta el desarrollo de nuestro proyecto final, en el que realizamos un estudio de sitio de una red inalámbrica (WLAN) para analizar su rendimiento, identificar problemas de interferencia y evaluar la cobertura de la señal en diferentes áreas de una vivienda.
+En este blog presenta el desarrollo de nuestro proyecto final, en el que realizamos un estudio de sitio de una red inalámbrica (WLAN) para analizar su rendimiento, identificar problemas de interferencia y evaluar la cobertura de la señal en diferentes áreas de una vivienda.
 
 <br>
 
